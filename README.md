@@ -106,13 +106,13 @@ _Flowchart of testing types_
 
 ✉️ Testing contact input form
 
-![Excel spreadsheet of “Naslovna” test suite](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Screenshot_2023-05-25_at_14.43.16.png)
+<img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/2da80f85-b8cc-4e30-8869-eeb94609d631" alt="Excel spreadsheet of 'Naslovna' test suite" width="600"/>
 
-Excel spreadsheet of “Naslovna” test suite
+_Excel spreadsheet of “Naslovna” test suite_
 
-![Python scripts for “Naslovna” test suite](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Screenshot_2023-05-25_at_14.49.34.png)
+<img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/36938974-d065-45a9-88e0-d99f182018de" alt="Python scripts for 'Naslovna' test suite" width="600"/>
 
-Python scripts for “Naslovna” test suite
+_Python scripts for “Naslovna” test suite_
 
 [Link to Excel test cases spreadsheet](https://1drv.ms/x/s!Aic-y_rltApahFEkREDKIKeSjkP6?e=BJ5kao)
 
@@ -138,23 +138,23 @@ Python scripts for “Naslovna” test suite
 
 # 5️⃣ Test execution & reporting
 
-[Test case execution: Testing map widget functionality](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Selected_May_25_2023_13_04_08.mp4)
+https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/522509f8-57cd-4342-a1e8-2933f7b080c4
 
-Test case execution: Testing map widget functionality
+_Test case execution: Testing map widget functionality_
 
-[Test case execution: Testing carousel functionality](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Selected_May_25_2023_12_55_04%201.mp4)
+https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/b937e06c-35f1-42e7-9714-266a4acfa6e5
 
-Test case execution: Testing carousel functionality
+_Test case execution: Testing carousel functionality_
 
 # 6️⃣ Test closure
 
-![Results of the execution of 106 test cases: smoke testing (automated)](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Untitled%201.png)
+<img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/ea4de312-c09a-43a5-b20e-d50745f1aa0d" alt="Results of the execution of 106 test cases: smoke testing (automated)" width="600"/>
 
-Results of the execution of 106 test cases: smoke testing (automated)
+_Results of the execution of 106 test cases: smoke testing (automated)_
 
-![3 bugs were found during exploratory testing (manual)](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Untitled%202.png)
+<img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/482d97ca-b2af-4e31-a9d2-53b135206add" alt="3 bugs were found during exploratory testing (manual)" width="600"/>
 
-3 bugs were found during exploratory testing (manual)
+_3 bugs were found during exploratory testing (manual)_
 
 # Next steps
 
