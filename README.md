@@ -6,7 +6,7 @@ All the test cases are inside the following files:
 - /usluge/test_usluge.py
 - /kontakt/test_kontakt.py
 
-[Selected May 25 2023 12_55_04.mp4](README_attachments/Selected_May_25_2023_12_55_04.mp4)
+![Selected May 25 2023 12_55_04.mp4](README_attachments/Selected_May_25_2023_12_55_04.mp4)
 
 # Summary
 
