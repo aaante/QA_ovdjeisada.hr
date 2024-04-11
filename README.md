@@ -6,6 +6,8 @@ All the test cases are inside the following files:
 - /usluge/test_usluge.py
 - /kontakt/test_kontakt.py
 
+[Selected May 25 2023 12_55_04.mp4](README_attachments/Selected_May_25_2023_12_55_04.mp4)
+
 # Summary
 
 "Ovdje I Sada", an educational-advisory center launched its website in May 2023. The website was tested for full functionality, using functional testing methodology, both automated (smoke testing) and manual (exploratory testing). 106 test cases were executed using Python + Selenium combination.
@@ -113,8 +115,6 @@ Excel spreadsheet of “Naslovna” test suite
 Python scripts for “Naslovna” test suite
 
 [Link to Excel test cases spreadsheet](https://1drv.ms/x/s!Aic-y_rltApahFEkREDKIKeSjkP6?e=BJ5kao)
-
-[Link to GitHub code repository](https://github.com/TopDownView/QA_ovdjeisada.hr)
 
 # 4️⃣ Test environment setup
 
