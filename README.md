@@ -12,7 +12,7 @@ All the test cases are inside the following files:
 
 # Software Testing Life Cycle (STLC)
 
-The project was structured around specific STLC steps:
+### The project was structured around specific STLC steps:
 
 1️⃣ Requirement analysis
 
@@ -28,7 +28,7 @@ The project was structured around specific STLC steps:
 
 # 1️⃣ Requirement analysis
 
-Summary of stakeholder (client + lead designer and developer) interviews:
+### Summary of stakeholder (client + lead designer and developer) interviews:
 
 👋 The website is live and was never tested
 
@@ -40,7 +40,7 @@ Summary of stakeholder (client + lead designer and developer) interviews:
 
 ⏰ Time constraint (testing should be done before migrating the website to a different server)
 
-Testing to be done:
+### Testing to be done:
 
 ⚫️ Dynamic -> Black box -> Functional -> Smoke Testing (Automated) & Exploratory Testing (Manual)
 
