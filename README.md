@@ -48,6 +48,8 @@ https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/49252680-a3a1-4fa3-a
 
 ![Flowchart of testing types](https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/4b75e939-e68c-4132-9c5d-6197e152d19c)
 
+<img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/4b75e939-e68c-4132-9c5d-6197e152d19c" alt="Flowchart of testing" width="200"/>
+
 ![Flowchart of testing types](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Untitled.png)
 
 Flowchart of testing types
@@ -84,7 +86,7 @@ Flowchart of testing types
 
 ### Required infrastructure:
 
-💻 MacBook Air M1  (latest macOS update)
+💻 MacBook Air M1 (latest macOS update)
 
 💻 Chrome browser (latest version)
 
