@@ -48,61 +48,61 @@ Testing to be done:
 
 Flowchart of testing types
 
-# 2️⃣ Test planning**
+# 2️⃣ Test planning
 
 ## Test approach:
 
 ### Smoke testing:
 
-### ⚽️ Purpose: Testing of the most critical functionalities of the website
+⚽️ Purpose: Testing of the most critical functionalities of the website
 
-### 🔍 Scope: Part of the website, critical functionalities/flows
+🔍 Scope: Part of the website, critical functionalities/flows
 
-### 👉 Method: Automatic scripts (Selenium + Python), defects recorded in Excel
+👉 Method: Automatic scripts (Selenium + Python), defects recorded in Excel
 
 ### Exploratory testing:
 
-### ⚽️ Purpose: Undocumented testing on the fly
+⚽️ Purpose: Undocumented testing on the fly
 
-### 🔍 Scope: Entire site, all functionalities/flows
+🔍 Scope: Entire site, all functionalities/flows
 
-### 👉 Method: Manual, defects recorded in Excel
+👉 Method: Manual, defects recorded in Excel
 
 ## Test Pass/Fail/Incomplete criteria:
 
-### 🟩 A test case will be considered passed if all of its steps are executed successfully, and the actual results match the expected results
+🟩 A test case will be considered passed if all of its steps are executed successfully, and the actual results match the expected results
 
-### 🟥 A test case will be considered failed if at any step the actual result does not match the expected result: a defect will be logged for each failed test case
+🟥 A test case will be considered failed if at any step the actual result does not match the expected result: a defect will be logged for each failed test case
 
-### 🟨 A test case will be considered incomplete if it did not complete execution due to several reasons, for example, the automated script failed, or test data was missing
+🟨 A test case will be considered incomplete if it did not complete execution due to several reasons, for example, the automated script failed, or test data was missing
 
 ## Test environment & infrastructure:
 
 ### Required infrastructure:
 
-### 💻 MacBook Air M1  (latest macOS update)
+💻 MacBook Air M1  (latest macOS update)
 
-### 💻 Chrome browser (latest version)
+💻 Chrome browser (latest version)
 
-### 💻 PyCharm IDE (latest version)
+💻 PyCharm IDE (latest version)
 
 # 3️⃣ Test case design & development
 
 ### Test cases for smoke testing (automated):
 
-### #️⃣ 106 test cases in total
+#️⃣ 106 test cases in total
 
-### #️⃣ 95 test cases for "Naslovna" page
+#️⃣ 95 test cases for "Naslovna" page
 
-### #️⃣ 11 test cases spread across other pages ("Usluge" and "Kontakt" pages) that test critical functionalities not present in "Naslovna" page
+#️⃣ 11 test cases spread across other pages ("Usluge" and "Kontakt" pages) that test critical functionalities not present in "Naslovna" page
 
 ### A few specific test cases:
 
-### 🎠 Testing carousel functionality
+🎠 Testing carousel functionality
 
-### 🗺️ Testing map widget functionality
+🗺️ Testing map widget functionality
 
-### ✉️ Testing contact input form
+✉️ Testing contact input form
 
 ![Excel spreadsheet of “Naslovna” test suite](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Screenshot_2023-05-25_at_14.43.16.png)
 
@@ -120,21 +120,21 @@ Python scripts for “Naslovna” test suite
 
 ### MacOS:
 
-### 1. Install Xcode
+1. Install Xcode
 
-### 2. Install Homebrew
+2. Install Homebrew
 
-### 3. Install Python3 with Brew
+3. Install Python3 with Brew
 
-### 4. Create Virtual Environment
+4. Create Virtual Environment
 
-### 5. Install PyCharm IDE
+5. Install PyCharm IDE
 
-### 6. Install Selenium
+6. Install Selenium
 
-### 7. Install Chrome Webdriver Manager
+7. Install Chrome Webdriver Manager
 
-### 8. Install PyTest
+8. Install PyTest
 
 # 5️⃣ Test execution & reporting
 
@@ -158,18 +158,16 @@ Results of the execution of 106 test cases: smoke testing (automated)
 
 # Next steps
 
-### ➡️ Troubleshoot incomplete test cases
+➡️ Troubleshoot incomplete test cases
 
-### ➡️ Collaborate with the developer in fixing bugs
+➡️ Collaborate with the developer in fixing bugs
 
-### ➡️ Conduct non-functional performance testing
+➡️ Conduct non-functional performance testing
 
-### ➡️ Conduct all testing on other browsers (Firefox, Safari, Edge, Opera)
+➡️ Conduct all testing on other browsers (Firefox, Safari, Edge, Opera)
 
 # Conclusion
 
-### To wrap it all up, the thing that made this project a really interesting experience was the challenge of keeping track of all the different test cases (I can imagine something like TestRail would be really helpful here 😁) as well as the challenges of creating and debugging the automated tests that I've found really enjoyable so I'm already planning to do some personal automation projects to further refine my skills.
+To wrap it all up, the thing that made this project a really interesting experience was the challenge of keeping track of all the different test cases (I can imagine something like TestRail would be really helpful here 😁) as well as the challenges of creating and debugging the automated tests that I've found really enjoyable so I'm already planning to do some personal automation projects to further refine my skills.
 
-# 📊 [Link to Excel test cases spreadsheet](https://1drv.ms/x/s!Aic-y_rltApahFEkREDKIKeSjkP6?e=BJ5kao)
-
-# 😺 [Link to GitHub code repository](https://github.com/TopDownView/QA_ovdjeisada.hr)
+📊 [Link to Excel test cases spreadsheet](https://1drv.ms/x/s!Aic-y_rltApahFEkREDKIKeSjkP6?e=BJ5kao)
