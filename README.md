@@ -6,40 +6,25 @@ All the test cases are inside the following files:
 /usluge/test_usluge.py
 /kontakt/test_kontakt.py
 
-# Ovdje I Sada
-
-Duration: May 2023
-Client: E-com, Ovdje I Sada
-Project Type: Freelance project
-Product Type: Website
-Team: Ante Sušić
-My Role: QA Analyst
-Deliverables: Automatic Scripts, Requirement Analysis, Test Case Spreadsheet, Test Plan, Test Report
-Tools used: Chrome, Excel, PyCharm
-Tech Stack: PyTest, Python, Selenium
-
-[Selected May 25 2023 12_55_04.mp4](Ovdje%20I%20Sada%20261d7ab6bf6244e4b680f53b5616225a/Selected_May_25_2023_12_55_04.mp4)
-
 # Summary
 
-## ⭐ "Ovdje I Sada", an educational-advisory center launched its website in May 2023. The website was tested for full functionality, using functional testing methodology, both automated (smoke testing) and manual (exploratory testing).
-106 test cases were executed using Python + Selenium combination. ⭐
+"Ovdje I Sada", an educational-advisory center launched its website in May 2023. The website was tested for full functionality, using functional testing methodology, both automated (smoke testing) and manual (exploratory testing). 106 test cases were executed using Python + Selenium combination.
 
 # Software Testing Life Cycle (STLC)
 
-### The project was structured around specific STLC steps:
+The project was structured around specific STLC steps:
 
-### 1️⃣ Requirement analysis
+1️⃣ Requirement analysis
 
-### 2️⃣ Test planning
+2️⃣ Test planning
 
-### 3️⃣ Test case design & development
+3️⃣ Test case design & development
 
-### 4️⃣ Test environment setup
+4️⃣ Test environment setup
 
-### 5️⃣ Test execution & reporting
+5️⃣ Test execution & reporting
 
-### 6️⃣ Test closure
+6️⃣ Test closure
 
 # 1️⃣ **Requirement analysis**
 
