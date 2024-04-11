@@ -47,6 +47,7 @@ https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/49252680-a3a1-4fa3-a
 ⚫️ Dynamic -> Black box -> Functional -> Smoke Testing (Automated) & Exploratory Testing (Manual)
 
 <img src="https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/4b75e939-e68c-4132-9c5d-6197e152d19c" alt="Flowchart of testing types" width="600"/>
+
 _Flowchart of testing types_
 
 # 2️⃣ Test planning
