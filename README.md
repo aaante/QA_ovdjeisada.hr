@@ -8,6 +8,9 @@ All the test cases are inside the following files:
 
 ![Selected May 25 2023 12_55_04.mp4](README_attachments/Selected_May_25_2023_12_55_04.mp4)
 
+https://github.com/aaante/QA_ovdjeisada.hr/assets/134620137/bda41d59-8cb1-4216-bed3-9d3432dbe789
+
+
 # Summary
 
 "Ovdje I Sada", an educational-advisory center launched its website in May 2023. The website was tested for full functionality, using functional testing methodology, both automated (smoke testing) and manual (exploratory testing). 106 test cases were executed using Python + Selenium combination.
